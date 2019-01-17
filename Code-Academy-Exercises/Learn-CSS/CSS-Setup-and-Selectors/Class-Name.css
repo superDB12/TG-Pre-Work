@@ -1,0 +1,8 @@
+p {
+      font-family: Arial;
+    }
+h1 {
+  color: maroon;
+  	}
+.title {color: teal;}
+/* Learned about classes. You can add a class to an HTML element and then uss css to change it's styling by referencing the class. Class trumps selector */

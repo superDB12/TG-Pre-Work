@@ -6,9 +6,6 @@ body {
 header {
   background-color: #466995;
   border-bottom: 1px solid #466995;
-  position: fixed;
-  width: 100%;
-  z-index: 10;
 }
 
 ul {
@@ -82,14 +79,13 @@ footer {
   padding: 40px;
   text-align: center;
   width: 100%;
-  position: relative;
-  top: 200px;
 }
 
 .question {
   text-align: center;
   position: relative;
   top: 40px;
+  left: 200px;
 }
 
 .answer {
@@ -101,4 +97,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
-/* z-index, higher the number the more "shallow" the element
+/* Learned about relative position

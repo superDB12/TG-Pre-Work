@@ -8,7 +8,6 @@ header {
   border-bottom: 1px solid #466995;
   position: fixed;
   width: 100%;
-  z-index: 10;
 }
 
 ul {
@@ -101,4 +100,4 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
-/* z-index, higher the number the more "shallow" the element
+/* Experiemented with fixed position
