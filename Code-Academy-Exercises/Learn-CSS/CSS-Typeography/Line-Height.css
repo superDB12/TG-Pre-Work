@@ -1,0 +1,9 @@
+/* Using line-height to change the height
+of lines. Preferred method is unitless
+percentage of font size as it will change
+with font size. Code Academy would not load code
+for this page... */
+
+.banner {
+  line-height: 1.4;
+}
