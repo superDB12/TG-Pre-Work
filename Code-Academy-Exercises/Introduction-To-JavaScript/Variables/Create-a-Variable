@@ -1,0 +1,18 @@
+var favoriteFood = 'pizza'
+var numOfSlices = 8
+console.log(favoriteFood)
+console.log(numOfSlices)
+
+//Assiging variables using "var"
+
+let changeMe = true;
+changeMe = false;
+console.log(changeMe);
+
+//are var variable immutable?
+
+const entree = 'Enchiladas';
+console.log(entree);
+entree = 'Tacos'
+
+//const variables must be defined and are immutable
