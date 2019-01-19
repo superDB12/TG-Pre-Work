@@ -1,1 +1,1 @@
-//Algebra containers.
+//Algebra containers. Create, store & reference.
