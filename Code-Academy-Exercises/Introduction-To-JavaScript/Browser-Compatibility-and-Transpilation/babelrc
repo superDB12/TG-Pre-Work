@@ -1,0 +1,5 @@
+{
+"presets": ["env"]
+}
+
+//This tells Babel that we are transpiling from ES6?
